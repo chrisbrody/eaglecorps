@@ -32,10 +32,15 @@ Execute ChromeSetup.exe from downloads folder
 <br /><br />
 <img align="center" width="1000" src="../../assets/images/google_download_2.PNG"><br /><br />
 
-<div id="step2" class="step">Step 3:</div>
+<div id="step3" class="step">Step 3:</div>
 Once Chrome is downloaded navigate to <a href="https://www.google.com/" target="_blank">Google.com</a>
 <br /><br />
 <img align="center" width="1000" src="../../assets/images/google_download_3.PNG">
+
+<div id="step4" class="step">Step 4:</div>
+With google.com open, right click and select <em>Inspect</em> to bring up the developer console
+<br /><br />
+<img align="center" width="1000" src="../../assets/images/google_download_4.PNG">
 
 <hr>
 
