@@ -17,9 +17,9 @@
 google image here<br />
 <img align="center" width="300" src="https://thehappypuppysite.com/wp-content/uploads/2017/10/Cute-Dog-Names-HP-long.jpg"><br />
 
-+ [Step 1](#step1)
-+ [Step 2](#step2)
-+ [Step 3](#step3)
++ [Download Chrome Web Browser](#step1)
++ [Execute ChromeSetup.exe](#step2)
++ [Open google.com in the new Chrome browser](#step3)
 
 <div id="step1" class="step">Step 1:</div>
 
@@ -27,12 +27,12 @@ Visit the  <a href="https://www.google.com/chrome/downloads/" target="_blank">Ch
 <br /><br />
 <img align="center" width="300" src="../../assets/images/google_download_1.PNG"><br />
 
-<div id="step2" class="step">Step 2</div>
+<div id="step2" class="step">Step 2:</div>
 Execute ChromeSetup.exe from downloads folder
 <br /><br />
 <img align="center" width="1000" src="../../assets/images/google_download_2.PNG"><br />
 
-<div id="step2" class="step">Step 3</div>
+<div id="step2" class="step">Step 3:</div>
 Once Chrome is downloaded navigate to <a href="https://www.google.com/" target="_blank">Google.com</a>
 <br /><br />
 <img align="center" width="1000" src="../../assets/images/google_download_3.PNG"><br />
