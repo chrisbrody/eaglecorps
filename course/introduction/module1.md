@@ -30,7 +30,7 @@ Visit the  [Chrome Web Browser Download](https://www.google.com/chrome/downloads
 <div id="step2" class="step">Step 2</div>
 From downloads double click and execute ChromeSetup.exe
 <br /><br />
-<img align="center" width="500" src="../../assets/images/google_download_2.PNG"><br />
+<img align="center" width="1000" src="../../assets/images/google_download_2.PNG"><br />
 
 <div id="step3" class="step">
     <p>Step 3</p>
