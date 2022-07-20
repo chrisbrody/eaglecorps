@@ -7,7 +7,7 @@ A full-stack developer is able to address both sides of the equation, meaning th
 <br /><img align="center" width="300" src="https://thehappypuppysite.com/wp-content/uploads/2017/10/Cute-Dog-Names-HP-long.jpg"><br /><br />
 
 ### [Introduction](http://github.com)
-Introduction Module #1: IDEs & Dev Tools: Learn the tools and IDEs used by web programmers
+Introduction Module #1: IDEs & Dev Tools: Learn the tools and IDEs used by web programmers<br />
 Introduction Module #2: Shortcuts: Learn important computer hotkeys and coding hotkeys and shortcuts<br /><br />
 
 ### [Beginner](http://github.com)
