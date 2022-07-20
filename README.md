@@ -29,7 +29,7 @@ A full-stack developer is able to address both sides of the equation, meaning th
 `  `Intermediate Module 6: JavaScript(4) - Advanced #2<br />
 
 ##### [Advanced](http://github.com)
-`  `Advanced Module 1: APIs<br />
+<p>  Advanced Module 1: APIs</p><br />
 `  `Advanced Module 2: React(1) - Beginner<br />
 `  `Advanced Module 3: React(2) - Advanced<br />
 `  `Advanced Module 4: Databases<br />
