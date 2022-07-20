@@ -25,15 +25,19 @@
     </ul>
     <div id="step1" class="step">
         <p>Step 1</p>
+        <img align="center" width="1000" src="https://thehappypuppysite.com/wp-content/uploads/2017/10/Cute-Dog-Names-HP-long.jpg"><br />
     </div>
     <div id="step2" class="step">
         <p>Step 2</p>
+        <img align="center" width="1000" src="https://thehappypuppysite.com/wp-content/uploads/2017/10/Cute-Dog-Names-HP-long.jpg"><br />
     </div>
     <div id="step3" class="step">
         <p>Step 3</p>
+        <img align="center" width="1000" src="https://thehappypuppysite.com/wp-content/uploads/2017/10/Cute-Dog-Names-HP-long.jpg"><br />
     </div>
     <div id="step4" class="step">
         <p>Step 4</p>
+        <img align="center" width="1000" src="https://thehappypuppysite.com/wp-content/uploads/2017/10/Cute-Dog-Names-HP-long.jpg"><br />
     </div>
 </div>
 
