@@ -11,9 +11,9 @@ A full-stack developer is able to address both sides of the equation, meaning th
 `  `Introduction Module #2: Shortcuts: Learn important computer hotkeys and coding hotkeys and shortcuts
 
 ##### [Beginner](http://github.com)
-`  `Beginner Module #1: HTML & CSS(1) Learn the languages of the web: HTML & CSS - Beginner<br />
-`  `Beginner Module #2: HTML & CSS(2) Learn the languages of the web: HTML & CSS - Intermediate<br />
-`  `Beginner Module #3: HTML & CSS(3) Learn the languages of the web: HTML & CSS - Advanced<br />
+`  `Beginner Module #1: HTML & CSS(1) - Beginner<br />
+`  `Beginner Module #2: HTML & CSS(2) - Intermediate<br />
+`  `Beginner Module #3: HTML & CSS(3) - Advanced<br />
 `  `Beginner Module #4: Basic Design & Accessibility<br />
 `  `Beginner Module #5: Responsive Design<br />
 `  `Beginner Module #6: Flexbox & Grid<br />
