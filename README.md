@@ -13,7 +13,7 @@
 `  `**Beginner #2: HTML & CSS(2) Learn the languages of the web: HTML & CSS**<br />
 `  `**Beginner #3: HTML & CSS(3) Learn the languages of the web: HTML & CSS**<br />
 `  `**Beginner #4: Basic Design & Accessibility**<br />
-`  `**Beginner #5: Basic Design & Accessibility**<br />
+`  `**Beginner #5: Responsive Design**<br />
 `  `**Beginner #6: Flexbox & Grid**<br />
 `  `**Beginner #7: Digital Image Editing**<br />
 `  `**Beginner #8: Web Performance**
