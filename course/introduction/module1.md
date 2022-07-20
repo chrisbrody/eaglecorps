@@ -23,23 +23,19 @@ google image here<br />
 
 <div id="step1" class="step">Step 1:</div>
 
-Visit the  [Chrome Web Browser Download](https://www.google.com/chrome/downloads/) page and select Download Chrome
+Visit the  <a href="https://www.google.com/chrome/downloads/" target="_blank">Chrome Web Browser Download</a> page and select Download Chrome
 <br /><br />
 <img align="center" width="300" src="../../assets/images/google_download_1.PNG"><br />
 
 <div id="step2" class="step">Step 2</div>
-From downloads double click and execute ChromeSetup.exe
+Execute ChromeSetup.exe from downloads folder
 <br /><br />
 <img align="center" width="1000" src="../../assets/images/google_download_2.PNG"><br />
 
-<div id="step3" class="step">
-    <p>Step 3</p>
-    <img align="center" width="1000" src="https://thehappypuppysite.com/wp-content/uploads/2017/10/Cute-Dog-Names-HP-long.jpg"><br />
-</div>
-<div id="step4" class="step">
-    <p>Step 4</p>
-    <img align="center" width="1000" src="https://thehappypuppysite.com/wp-content/uploads/2017/10/Cute-Dog-Names-HP-long.jpg"><br />
-</div>
+<div id="step2" class="step">Step 3</div>
+Once Chrome is downloaded navigate to <a href="https://www.google.com/" target="_blank">Google.com</a>
+<br /><br />
+<img align="center" width="1000" src="../../assets/images/google_download_3.PNG"><br />
 
 
 #### <span class="objective">Learning Objective # 2</span> Learn how to inspect elements and modify code in the browser
