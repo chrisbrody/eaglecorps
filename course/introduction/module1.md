@@ -1,10 +1,17 @@
-# **EAGLECORPS**
+# **EAGLECORPS** [Full Stack Track](../README.md)
+[back to Introduction Courses](/course/introduction.md)
+## Developer Tools - Introduction Course #1 
+<br />
 
-## [Full Stack Track](../../README.md)
+### Course Objective: <br /><em><b>Begin learning about tools for Full Stack Developers</b></em>
 
-A full-stack developer is able to address both sides of the equation, meaning they can work with both the front and back ends of a website or an application. They are able to handle projects that involve building user interfaces and databases.
+<br />
 
-### **Introduction Module #1** <br />IDEs & Dev Tools: Learn the tools and IDEs used by web programmers
-
-<h4>Lorem Ipsum Generator</h4>
-<p>Generate Lorem Ipsum placeholder text. Select the number of characters, words, sentences or paragraphs, and hit generate!</p>
+### Key Learning Objectives
+<ul>
+    <li>Download and use a text editor - visual studio code</li>
+    <li>Learn how to inspect elements and modify code in the browser</li>
+    <li>Create a Github account and upload a boilerplate template</li>
+    <li>Download and review what a HTML5 boilerplate is</li>
+    <li>Complete your first coding project and upload it to Github"</li>
+</ul>
