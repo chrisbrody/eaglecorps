@@ -14,32 +14,33 @@
 </ul>
 
 #### <span class="objective">Learning Objective # 1</span> Download and use a text editor - visual studio code
-<div>
-    google image here<br />
-    <img align="center" width="300" src="https://thehappypuppysite.com/wp-content/uploads/2017/10/Cute-Dog-Names-HP-long.jpg"><br />
-    <ul>
-        <li><a href="#step1">Step 1</a></li>
-        <li><a href="#step2">Step 2</a></li>
-        <li><a href="#step3">Step 3</a></li>
-        <li><a href="#step4">Step 4</a></li>
-    </ul>
-    <div id="step1" class="step">
-        <p>Step 1</p>
-        <img align="center" width="1000" src="https://thehappypuppysite.com/wp-content/uploads/2017/10/Cute-Dog-Names-HP-long.jpg"><br />
-    </div>
-    <div id="step2" class="step">
-        <p>Step 2</p>
-        <img align="center" width="1000" src="https://thehappypuppysite.com/wp-content/uploads/2017/10/Cute-Dog-Names-HP-long.jpg"><br />
-    </div>
-    <div id="step3" class="step">
-        <p>Step 3</p>
-        <img align="center" width="1000" src="https://thehappypuppysite.com/wp-content/uploads/2017/10/Cute-Dog-Names-HP-long.jpg"><br />
-    </div>
-    <div id="step4" class="step">
-        <p>Step 4</p>
-        <img align="center" width="1000" src="https://thehappypuppysite.com/wp-content/uploads/2017/10/Cute-Dog-Names-HP-long.jpg"><br />
-    </div>
+google image here<br />
+<img align="center" width="300" src="https://thehappypuppysite.com/wp-content/uploads/2017/10/Cute-Dog-Names-HP-long.jpg"><br />
+
++ [Step 1](#step1)
++ [Step 2](#step2)
++ [Step 3](#step3)
+
+<div id="step1" class="step">Step 1:</div>
+
+Visit the  [Chrome Web Browser Download](https://www.google.com/chrome/downloads/) page and select Download Chrome
+<br /><br />
+<img align="center" width="300" src="../../assets/images/google_download_1.PNG"><br />
+
+<div id="step2" class="step">Step 2</div>
+From downloads double click and execute ChromeSetup.exe
+<br /><br />
+<img align="center" width="500" src="../../assets/images/google_download_2.PNG"><br />
+
+<div id="step3" class="step">
+    <p>Step 3</p>
+    <img align="center" width="1000" src="https://thehappypuppysite.com/wp-content/uploads/2017/10/Cute-Dog-Names-HP-long.jpg"><br />
 </div>
+<div id="step4" class="step">
+    <p>Step 4</p>
+    <img align="center" width="1000" src="https://thehappypuppysite.com/wp-content/uploads/2017/10/Cute-Dog-Names-HP-long.jpg"><br />
+</div>
+
 
 #### <span class="objective">Learning Objective # 2</span> Learn how to inspect elements and modify code in the browser
 
