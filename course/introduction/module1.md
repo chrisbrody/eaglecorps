@@ -30,7 +30,7 @@ Visit the  <a href="https://www.google.com/chrome/downloads/" target="_blank">Ch
 <div id="step2" class="step">Step 2:</div>
 Execute ChromeSetup.exe from downloads folder
 <br /><br />
-<img align="center" width="1000" src="../../assets/images/google_download_2.PNG"><br /><br />
+<img align="center" width="750" src="../../assets/images/google_download_2.PNG"><br /><br />
 
 <div id="step3" class="step">Step 3:</div>
 Once Chrome is downloaded navigate to <a href="https://www.google.com/" target="_blank">Google.com</a>
