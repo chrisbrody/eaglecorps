@@ -6,26 +6,32 @@ A full-stack developer is able to address both sides of the equation, meaning th
 
 <img align="center" width="300" src="https://thehappypuppysite.com/wp-content/uploads/2017/10/Cute-Dog-Names-HP-long.jpg">
 
-##### [INTRODUCTION](http://github.com)
-`  `**Introduction #1: IDEs & Dev Tools: Become familiar with the developer tools and IDEs used by web programmers** <br />
-`  `**Introduction #2: Shortcuts: Learn important computer hotkeys and coding hotkeys and shortcuts**
+##### [Introduction](http://github.com)
+`  `Introduction Module #1: IDEs & Dev Tools: Become familiar with the developer tools and IDEs used by web programmers<br />
+`  `Introduction Module #2: Shortcuts: Learn important computer hotkeys and coding hotkeys and shortcuts
 
-##### [BEGINNER](http://github.com)
-`  `Beginner #1: HTML & CSS(1) Learn the languages of the web: HTML & CSS<br />
-`  `Beginner #2: HTML & CSS(2) Learn the languages of the web: HTML & CSS<br />
-`  `Beginner #3: HTML & CSS(3) Learn the languages of the web: HTML & CSS<br />
-`  `**Beginner #4: Basic Design & Accessibility**<br />
-`  `**Beginner #5: Responsive Design**<br />
-`  `**Beginner #6: Flexbox & Grid**<br />
-`  `**Beginner #7: Digital Image Editing**<br />
-`  `**Beginner #8: Web Performance**
+##### [Beginner](http://github.com)
+`  `Beginner Module #1: HTML & CSS(1) Learn the languages of the web: HTML & CSS - Beginner<br />
+`  `Beginner Module #2: HTML & CSS(2) Learn the languages of the web: HTML & CSS - Intermediate<br />
+`  `Beginner Module #3: HTML & CSS(3) Learn the languages of the web: HTML & CSS - Advanced<br />
+`  `Beginner Module #4: Basic Design & Accessibility<br />
+`  `Beginner Module #5: Responsive Design<br />
+`  `Beginner Module #6: Flexbox & Grid<br />
+`  `Beginner Module #7: Digital Image Editing<br />
+`  `Beginner Module #8: Web Performance
 
-##### [INTERMEDIATE](http://github.com)
-`  `**Intermediate 1: CSS Frameworks** 
-`  `**Intermediate 2: CSS Frameworks** 
-`  `**Intermediate 3: CSS Frameworks** 
-`  `**Intermediate 4: CSS Frameworks** 
-`  `**Intermediate 5: CSS Frameworks** 
-`  `**Intermediate 6: CSS Frameworks** 
+##### [Intermediate](http://github.com)
+`  `Intermediate Module 1: CSS Frameworks<br />
+`  `Intermediate Module 2: jQuery<br />
+`  `Intermediate Module 3: JavaScript(1) - Beginner<br />
+`  `Intermediate Module 4: JavaScript(2) - Intermediate<br />
+`  `Intermediate Module 5: JavaScript(3) - Advanced #1<br />
+`  `Intermediate Module 6: JavaScript(4) - Advanced #2<br />
 
-##### [ADVANCED](http://github.com)
+##### [Advanced](http://github.com)
+`  `Advanced Module 1: APIs<br />
+`  `Advanced Module 2: React(1) - Beginner<br />
+`  `Advanced Module 3: React(2) - Advanced<br />
+`  `Advanced Module 4: Databases<br />
+`  `Advanced Module 5: Business Login<br />
+`  `Advanced Module 6: MERN Stack<br />
