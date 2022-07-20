@@ -6,8 +6,8 @@
 
 ### Key Learning Objectives
 <ul>
-    <li>Download and use a text editor - visual studio code</li>
     <li>Learn how to inspect elements and modify code in the browser</li>
+    <li>Download and use a text editor - visual studio code</li>
     <li>Download and review what a HTML5 boilerplate is</li>
     <li>Create a Github account and upload a boilerplate template</li>
     <li>Complete the first coding project and upload it to Github</li>
@@ -25,18 +25,19 @@ google image here<br />
 
 Visit the  <a href="https://www.google.com/chrome/downloads/" target="_blank">Chrome Web Browser Download</a> page and select Download Chrome
 <br /><br />
-<img align="center" width="300" src="../../assets/images/google_download_1.PNG"><br />
+<img align="center" width="300" src="../../assets/images/google_download_1.PNG"><br /><br />
 
 <div id="step2" class="step">Step 2:</div>
 Execute ChromeSetup.exe from downloads folder
 <br /><br />
-<img align="center" width="1000" src="../../assets/images/google_download_2.PNG"><br />
+<img align="center" width="1000" src="../../assets/images/google_download_2.PNG"><br /><br />
 
 <div id="step2" class="step">Step 3:</div>
 Once Chrome is downloaded navigate to <a href="https://www.google.com/" target="_blank">Google.com</a>
 <br /><br />
-<img align="center" width="1000" src="../../assets/images/google_download_3.PNG"><br />
+<img align="center" width="1000" src="../../assets/images/google_download_3.PNG"><br /><br />
 
+<hr>
 
 #### <span class="objective">Learning Objective # 2</span> Learn how to inspect elements and modify code in the browser
 
