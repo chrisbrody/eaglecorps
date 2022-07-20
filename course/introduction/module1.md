@@ -1,16 +1,3 @@
-<style>
-    .objective {
-        color:tomato;
-        display:grid;
-        grid-template-columns: 1fr 1fr;
-    }
-    .step {
-        background:lightgray;
-        margin: 25px 0;
-    }
-
-</style>
-
 # **EAGLECORPS** [Full Stack Track](../README.md)
 [back to Introduction Courses](/course/introduction.md)
 ## Developer Tools - Introduction Course #1 
