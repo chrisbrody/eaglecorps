@@ -14,11 +14,8 @@
 # **EAGLECORPS** [Full Stack Track](../README.md)
 [back to Introduction Courses](/course/introduction.md)
 ## Developer Tools - Introduction Course #1 
-<br />
 
 ### Course Objective: <br /><em><b>Begin learning about tools for Full Stack Developers</b></em>
-
-<br />
 
 ### Key Learning Objectives
 <ul>
@@ -33,7 +30,6 @@
 <div>
     google image here<br />
     <img align="center" width="300" src="https://thehappypuppysite.com/wp-content/uploads/2017/10/Cute-Dog-Names-HP-long.jpg"><br />
-    <p>Steps:</p>
     <ul>
         <li><a href="#step1">Step 1</a></li>
         <li><a href="#step2">Step 2</a></li>
