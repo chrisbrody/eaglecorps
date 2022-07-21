@@ -49,30 +49,38 @@ Once Chrome is downloaded navigate to <a href="#" target="_blank">This Google Pa
 + [Discuss how CSS selects HTML and how property:value pairs work](#step2.4)
 + [Change CSS property:values pairs and add a few property:value pairs](#step2.5)
 
-<div id="step2.1" class="step">Step 1:</div>
+<div id="step2.1" class="step">Step 1: Inspect element to bring up developer tools</div>
 With the URL open, right-click on an element (or a blank area) and select <em>"Inspect"</em> or <em>"Inspect Element"</em> to bring up the developer console, we'll use this to see what elements are made of.  Notice HTML Elements on the left, and based on the element selected (highlighted in blue), you'll notice the correlating CSS on the right.
 <img align="center" width="1000" src="../../assets/images/google_download_4.PNG">
 
 
-<div id="step2.2" class="step">Step 2:</div>
+<div id="step2.2" class="step">Step 2: Discuss how to create an HTML element</div>
 We need to checkout the #1 resource for creating HTML - <a href="#" target="_blank">W3Schools</a> as it will be our go to for all things HTML
 <img align="center" width="1000" src="../../assets/images/inspect_code2.PNG">
 Here we can see: An HTML element is defined by a start tag, some content, and an end tag: 
 
-```
+```html
 <tagname> Content goes here... </tagname>
 ```
 
 The HTML element is everything from the start tag to the end tag:
 
-```
+```html
 <h1>My First Heading</h1>
 <p>My First Paragraph</p>
 ```
+Elements to become familiar with:
 
-<div id="step2.3" class="step">Step 3:</div>
-<div id="step2.4" class="step">Step 4:</div>
-<div id="step2.5" class="step">Step 5:</div>
+| !DOCTYPE | html | head  | link | script | 
+| body     | div  | ul    | li   | a      |
+| img      | br   | input |      |        |
+
+<div id="step2.3" class="step">Step 3: Modify the HTML in browser</div>
+You can 
+
+
+<div id="step2.4" class="step">Step 4: Discuss how CSS selects HTML and how property:value pairs work</div>
+<div id="step2.5" class="step">Step 5: Change CSS property:values pairs and add a few property:value pairs</div>
 
 <br />
 <hr>
