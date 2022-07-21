@@ -6,15 +6,15 @@
 <em><b>Begin learning about tools for Full Stack Developers</b></em>
 
 ## Key Learning Objectives
-+ [Learn how to inspect elements and modify code in the browser](#step1.1)
-+ [Download and use a text editor - visual studio code](#step2.1)
-+ Download and review what a HTML5 boilerplate is
-+ Create a Github account and upload a boilerplate template
-+ Complete the first coding project and upload it to Github
++ [Learn how to inspect elements and modify code in the browser](#step1)
++ [Download and use a text editor - visual studio code](#step2)
++ [Download and review what a HTML5 boilerplate is](#step3)
++ [Create a Github account and upload a boilerplate template](#step4)
++ [Complete the first coding project and upload it to Github](#step5)
 
 <hr />
 
-### <span class="objective">Learning Objective # 1</span> Download and use a text editor - visual studio code
+### <span id="step1">Learning Objective # 1</span> Download and use a text editor - visual studio code
 google image here<br />
 <img align="center" width="300" src="https://thehappypuppysite.com/wp-content/uploads/2017/10/Cute-Dog-Names-HP-long.jpg">
 
@@ -42,7 +42,7 @@ Once Chrome is downloaded navigate to <a href="#" target="_blank">This Google Pa
 <hr>
 <br />
 
-### <span class="objective">Learning Objective # 2</span> Learn how to inspect elements and modify code in the browser<br /><br />
+### <span id="step2">Learning Objective # 2</span> Learn how to inspect elements and modify code in the browser<br /><br />
 + [Inspect element to bring up developer tools](#step2.1)
 + [Discuss how to create an HTML element](#step2.2)
 + [Modify the HTML in browser](#step2.3)
@@ -63,17 +63,17 @@ With the URL open, right-click and select <em>Inspect</em> to bring up the devel
 <hr>
 <br />
 
-### <span class="objective">Learning Objective # 3</span> Download and review what a HTML5 boilerplate is
+### <span id="step3">Learning Objective # 3</span> Download and review what a HTML5 boilerplate is
 
 <br />
 <hr>
 <br />
 
-### <span class="objective">Learning Objective # 4</span> Create a Github account and upload a boilerplate template
+### <span id="step4">Learning Objective # 4</span> Create a Github account and upload a boilerplate template
 
 <br />
 <hr>
 <br />
 
-### <span class="objective">Learning Objective # 5</span> Complete the first coding project and upload it to Github
+### <span id="step5">Learning Objective # 5</span> Complete the first coding project and upload it to Github
 
