@@ -9,6 +9,6 @@
 ### Key Learning Objectives
 <ul>
     <li>Download and review boilerplate template project</li>
-    <li>Review / Practice with computer shortcuts</li>
-    <li>Review / Practice text editor shortcuts</li>
+    <li>Review & Practice with computer shortcuts</li>
+    <li>Review & Practice text editor shortcuts</li>
 </ul>
