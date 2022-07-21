@@ -53,7 +53,6 @@ Once VSC is on your computer navigate to <a href="#" target="_blank">This Google
 
 <br />
 <hr>
-<br />
 
 ### <span id="step2">Learning Objective # 2</span> Learn how to inspect elements and modify code in the browser
 + [Inspect element to bring up developer tools](#step2.1)
