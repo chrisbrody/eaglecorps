@@ -62,15 +62,12 @@ Once VSC is on your computer navigate to <a href="#" target="_blank">This Google
 + [Discuss how CSS selects HTML and how property:value pairs work](#step2.4)
 + [Change CSS property:values pairs and add a few property:value pairs](#step2.5)
 
-<br />
 <div id="step2.1" class="step">Step 1: Inspect element to bring up developer tools</div>
-<br />
 With the URL open, right-click on an element (or a blank area) and select <em>"Inspect"</em> or <em>"Inspect Element"</em> to bring up the developer console, we'll use this to see what elements are made of.  Notice HTML Elements on the left, and based on the element selected (highlighted in blue), you'll notice the correlating CSS on the right.
 <img align="center" width="1000" src="../../assets/images/introduction/inspect_code1.PNG">
 
 <br />
 <div id="step2.2" class="step">Step 2: Discuss how to create an HTML element</div>
-<br />
 We need to checkout the #1 resource for creating HTML - <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank">W3Schools</a> as it will be our go to for all things HTML
 <img align="center" width="1000" src="../../assets/images/introduction/inspect_code2.PNG">
 Here we can see: An HTML element is defined by a start tag, some content, and an end tag: 
@@ -91,7 +88,6 @@ Elements to become familiar with using W3Schools:
 
 <br />
 <div id="step2.3" class="step">Step 3: Modify the HTML in browser</div>
-<br />
 The browser allows us to select HTML and view the CSS the corresponds to create the style, we can also edit HTML or CSS and see the results right away, when the page is refreshed all changes will be reset. 
 
 <br />Here you can see the button element with the text of "Google Search" is highlighted in the developer console
@@ -103,7 +99,6 @@ The browser allows us to select HTML and view the CSS the corresponds to create 
 
 <br />
 <div id="step2.4" class="step">Step 4: Discuss how CSS selects HTML and how property:value pairs work</div>
-<br />
 Again we need to checkout the #1 resource - <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank">W3Schools</a> as it will be our go to for all things CSS
 <img align="center" width="1000" src="../../assets/images/introduction/inspect_code5.PNG">
 
