@@ -65,7 +65,6 @@ Once VSC is on your computer navigate to <a href="#" target="_blank">This Google
 With the URL open, right-click on an element (or a blank area) and select <em>"Inspect"</em> or <em>"Inspect Element"</em> to bring up the developer console, we'll use this to see what elements are made of.  Notice HTML Elements on the left, and based on the element selected (highlighted in blue), you'll notice the correlating CSS on the right.
 <img align="center" width="1000" src="../../assets/images/introduction/inspect_code1.PNG">
 
-<br />
 <div id="step2.2" class="step">Step 2: Discuss how to create an HTML element</div>
 We need to checkout the #1 resource for creating HTML - <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank">W3Schools</a> as it will be our go to for all things HTML
 <img align="center" width="1000" src="../../assets/images/introduction/inspect_code2.PNG">
@@ -85,7 +84,6 @@ Elements to become familiar with using W3Schools:
 
 !DOCTYPE | html | head  | link | script | body | div | ul | li | a | img | br | input
 
-<br />
 <div id="step2.3" class="step">Step 3: Modify the HTML in browser</div>
 The browser allows us to select HTML and view the CSS the corresponds to create the style, we can also edit HTML or CSS and see the results right away, when the page is refreshed all changes will be reset. 
 
@@ -96,12 +94,10 @@ The browser allows us to select HTML and view the CSS the corresponds to create 
 <img align="center" width="1000" src="../../assets/images/introduction/inspect_code4.PNG">
 
 
-<br />
 <div id="step2.4" class="step">Step 4: Discuss how CSS selects HTML and how property:value pairs work</div>
 Again we need to checkout the #1 resource - <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank">W3Schools</a> as it will be our go to for all things CSS
 <img align="center" width="1000" src="../../assets/images/introduction/inspect_code5.PNG">
 
-<br />
 <div id="step2.5" class="step">Step 5: Change CSS property:values pairs and add a few property:value pairs</div>
 
 <br />
