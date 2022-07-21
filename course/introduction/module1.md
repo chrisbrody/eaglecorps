@@ -73,7 +73,7 @@ Elements to become familiar with:
 
 | !DOCTYPE | html | head  | link | script | 
 | body     | div  | ul    | li   | a      |
-| img      | br   | input |      |        |
+| img      | br   | input |
 
 <div id="step2.3" class="step">Step 3: Modify the HTML in browser</div>
 You can 
