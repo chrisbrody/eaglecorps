@@ -28,22 +28,22 @@ google image here<br />
 
 <div id="step1.1" class="step">Step 1:</div>
 Visit the <a href="https://www.google.com/chrome/downloads/" target="_blank">Chrome Web Browser Download</a> page and select Download Chrome
-<img align="center" width="300" src="../../assets/images/introduction/google_download_1.PNG">
+<img align="center" width="300" src="../../assets/images/introduction/download_1.PNG">
 
 
 <div id="step1.2" class="step">Step 2:</div>
 Execute the ChromeSetup.exe file from the downloads folder
-<img align="center" width="750" src="../../assets/images/introduction/google_download_2.PNG">
+<img align="center" width="750" src="../../assets/images/introduction/download_2.PNG">
 
 
 <div id="step1.3" class="step">Step 3:</div>
 Visit the <a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a> page and select your OS to download
-<img align="center" width="300" src="../../assets/images/introduction/google_download_3.PNG">
+<img align="center" width="1000" src="../../assets/images/introduction/download_3.PNG">
 
 
 <div id="step1.4" class="step">Step 4:</div>
 Execute the VSCodeUserSetup.exe file from the downloads folder
-<img align="center" width="750" src="../../assets/images/introduction/google_download_4.PNG">
+<img align="center" width="750" src="../../assets/images/introduction/download_4.PNG">
 
 
 <div id="step1.5" class="step">Step 5:</div>
