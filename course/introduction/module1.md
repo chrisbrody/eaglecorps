@@ -18,12 +18,12 @@
 
 ### <span class="objective">Learning Objective # 1</span> Download and use a text editor - visual studio code
 google image here<br />
-<img align="center" width="300" src="https://thehappypuppysite.com/wp-content/uploads/2017/10/Cute-Dog-Names-HP-long.jpg"><br /><br />
+<img align="center" width="300" src="https://thehappypuppysite.com/wp-content/uploads/2017/10/Cute-Dog-Names-HP-long.jpg">
 
 + [Download Chrome Web Browser](#step1.1)
 + [Execute ChromeSetup.exe](#step1.2)
 + [Open google.com in the new Chrome browser](#step1.3)
-<br /><br />
+
 <div id="step1.1" class="step">Step 1:</div>
 
 Visit the  <a href="https://www.google.com/chrome/downloads/" target="_blank">Chrome Web Browser Download</a> page and select Download Chrome
