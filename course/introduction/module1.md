@@ -56,6 +56,20 @@ With the URL open, right-click on an element (or a blank area) and select <em>"I
 
 <div id="step2.2" class="step">Step 2:</div>
 We need to checkout the #1 resource for creating HTML - <a href="#" target="_blank">W3Schools</a> as it will be our go to for all things HTML
+<img align="center" width="1000" src="../../assets/images/inspect_code2.PNG">
+Here we can see: An HTML element is defined by a start tag, some content, and an end tag: 
+
+```
+<tagname> Content goes here... </tagname>
+```
+
+The HTML element is everything from the start tag to the end tag:
+
+```
+<h1>My First Heading</h1>
+<p>My First Paragraph</p>
+```
+
 <div id="step2.3" class="step">Step 3:</div>
 <div id="step2.4" class="step">Step 4:</div>
 <div id="step2.5" class="step">Step 5:</div>
