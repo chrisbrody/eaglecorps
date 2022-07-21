@@ -72,13 +72,13 @@ We need to checkout the #1 resource for creating HTML - <a href="#" target="_bla
 <img align="center" width="1000" src="../../assets/images/introduction/inspect_code2.PNG">
 Here we can see: An HTML element is defined by a start tag, some content, and an end tag: 
 
-```html
+```HTML
 <tagname> Content goes here... </tagname>
 ```
 
 The HTML element is everything from the start tag to the end tag:
 
-```html
+```HTML
 <h1>My First Heading</h1>
 <p>My First Paragraph</p>
 ```
