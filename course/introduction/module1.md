@@ -6,13 +6,11 @@
 <em><b>Begin learning about tools for Full Stack Developers</b></em>
 
 ## Key Learning Objectives
-<ul>
-    <li>Learn how to inspect elements and modify code in the browser</li>
-    <li>Download and use a text editor - visual studio code</li>
-    <li>Download and review what a HTML5 boilerplate is</li>
-    <li>Create a Github account and upload a boilerplate template</li>
-    <li>Complete the first coding project and upload it to Github</li>
-</ul>
++ [Learn how to inspect elements and modify code in the browser](#step1.1)
++ [Download and use a text editor - visual studio code](#step2.1)
++ Download and review what a HTML5 boilerplate is
++ Create a Github account and upload a boilerplate template
++ Complete the first coding project and upload it to Github
 
 <hr />
 
