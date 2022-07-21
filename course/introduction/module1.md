@@ -38,7 +38,7 @@ Execute the ChromeSetup.exe file from the downloads folder
 
 <div id="step1.3" class="step">Step 3:</div>
 Visit the <a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a> page and select your OS to download
-<img align="center" width="1000" src="../../assets/images/introduction/download_3.PNG">
+<img align="center" width="1000" src="../../assets/images/introduction/download_6.PNG">
 
 
 <div id="step1.4" class="step">Step 4:</div>
