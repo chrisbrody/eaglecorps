@@ -20,10 +20,9 @@ google image here<br />
 
 + [Download Chrome Web Browser](#step1.1)
 + [Execute ChromeSetup.exe](#step1.2)
-+ [Open Visual Studio Code text editor in the new Chrome browser](#step1.3)
-+ [Download Visual Studio Code text editor](#step1.4)
-+ [Execute VSCodeUserSetup.exe](#step1.5)
-+ [Open the Google Replica Project in Chrome](#step1.6)
++ [Download Visual Studio Code text editor](#step1.3)
++ [Execute VSCodeUserSetup.exe](#step1.4)
++ [Open the Google Replica Project in Chrome](#step1.5)
 
 
 <div id="step1.1" class="step">Step 1:</div>
@@ -33,23 +32,24 @@ Visit the <a href="https://www.google.com/chrome/downloads/" target="_blank">Chr
 
 <div id="step1.2" class="step">Step 2:</div>
 Execute the ChromeSetup.exe file from the downloads folder
-<img align="center" width="750" src="../../assets/images/introduction/download_2.PNG">
+<img align="center" width="1000" src="../../assets/images/introduction/download_2.PNG">
 
 
 <div id="step1.3" class="step">Step 3:</div>
 Visit the <a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a> page and select your OS to download
-<img align="center" width="750" src="../../assets/images/introduction/download_3.PNG">
+<img align="center" width="1000" src="../../assets/images/introduction/download_6.PNG">
 
 
 <div id="step1.4" class="step">Step 4:</div>
 Execute the VSCodeUserSetup.exe file from the downloads folder
-<img align="center" width="750" src="../../assets/images/introduction/download_4.PNG">
+<img align="center" width="1000" src="../../assets/images/introduction/download_4.PNG">
 
 
 <div id="step1.5" class="step">Step 5:</div>
 Once VSC is on your computer navigate to <a href="#" target="_blank">This Google Project (needs to be provided)</a>
-<!-- NEED TO UPDATE IMAGE TO PROPER PROJECT URL -->
-<img align="center" width="1000" src="../../assets/images/google_download_3.PNG">
+
+**NEED TO UPDATE IMAGE & URL TO PROPER PROJECT URL**
+<!-- <img align="center" width="1000" src="../../assets/images/google_download_3.PNG"> -->
 
 <br />
 <hr>
