@@ -42,19 +42,20 @@ Once Chrome is downloaded navigate to <a href="#" target="_blank">This Google Pa
 <hr>
 <br />
 
-### <span id="step2">Learning Objective # 2</span> Learn how to inspect elements and modify code in the browser<br /><br />
+### <span id="step2">Learning Objective # 2</span> Learn how to inspect elements and modify code in the browser
 + [Inspect element to bring up developer tools](#step2.1)
 + [Discuss how to create an HTML element](#step2.2)
 + [Modify the HTML in browser](#step2.3)
 + [Discuss how CSS selects HTML and how property:value pairs work](#step2.4)
 + [Change CSS property:values pairs and add a few property:value pairs](#step2.5)
-<br /><br />
+
 <div id="step2.1" class="step">Step 1:</div>
-With the URL open, right-click and select <em>Inspect</em> to bring up the developer console, you'll notice HTML Elements on the left, and based on the element selected (highlighted in blue), you'll notice the correlating CSS on the right.
-<br /><br />
-<!-- <img align="center" width="1000" src="../../assets/images/google_download_4.PNG"> -->
+With the URL open, right-click on an element (or a blank area) and select <em>"Inspect"</em> or <em>"Inspect Element"</em> to bring up the developer console, we'll use this to see what elements are made of.  Notice HTML Elements on the left, and based on the element selected (highlighted in blue), you'll notice the correlating CSS on the right.
+<img align="center" width="1000" src="../../assets/images/google_download_4.PNG">
+
 
 <div id="step2.2" class="step">Step 2:</div>
+We need to checkout the #1 resource for creating HTML - <a href="#" target="_blank">W3Schools</a> as it will be our go to for all things HTML
 <div id="step2.3" class="step">Step 3:</div>
 <div id="step2.4" class="step">Step 4:</div>
 <div id="step2.5" class="step">Step 5:</div>
