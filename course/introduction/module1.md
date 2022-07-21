@@ -64,12 +64,12 @@ Once VSC is on your computer navigate to <a href="#" target="_blank">This Google
 
 <div id="step2.1" class="step">Step 1: Inspect element to bring up developer tools</div>
 With the URL open, right-click on an element (or a blank area) and select <em>"Inspect"</em> or <em>"Inspect Element"</em> to bring up the developer console, we'll use this to see what elements are made of.  Notice HTML Elements on the left, and based on the element selected (highlighted in blue), you'll notice the correlating CSS on the right.
-<img align="center" width="1000" src="../../assets/images/google_download_4.PNG">
+<img align="center" width="1000" src="../../assets/images/introduction/inspect_code1.PNG">
 
 <br />
 <div id="step2.2" class="step">Step 2: Discuss how to create an HTML element</div>
 We need to checkout the #1 resource for creating HTML - <a href="#" target="_blank">W3Schools</a> as it will be our go to for all things HTML
-<img align="center" width="1000" src="../../assets/images/inspect_code2.PNG">
+<img align="center" width="1000" src="../../assets/images/introduction/inspect_code2.PNG">
 Here we can see: An HTML element is defined by a start tag, some content, and an end tag: 
 
 ```html
@@ -91,10 +91,10 @@ Elements to become familiar with using W3Schools:
 The browser allows us to select HTML and view the CSS the corresponds to create the style, we can also edit HTML or CSS and see the results right away, when the page is refreshed all changes will be reset. 
 
 <br />Here you can see the button element with the text of "Google Search" is highlighted in the developer console
-<img align="center" width="1000" src="../../assets/images/inspect_code3.PNG">
+<img align="center" width="1000" src="../../assets/images/introduction/inspect_code3.PNG">
 
 <br/>Double click the text "Google Search" in the highlighted button element and change the text you'll see it updates like magic!
-<img align="center" width="1000" src="../../assets/images/inspect_code4.PNG">
+<img align="center" width="1000" src="../../assets/images/introduction/inspect_code4.PNG">
 
 
 <br />
