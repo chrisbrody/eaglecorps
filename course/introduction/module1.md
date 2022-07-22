@@ -96,10 +96,45 @@ The browser allows us to select HTML and view the CSS the corresponds to create 
 
 
 <div id="step2.4" class="step">Step 4: Discuss how CSS selects HTML and how property:value pairs work</div>
-Again we need to checkout the #1 resource - <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank">W3Schools</a> as it will be our go to for all things CSS
+Again we need to checkout the #1 resource - <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank">W3Schools</a> as it will be our go to for all things CSS. For now we will become familiar the CSS element selector, #id selector and .class selector
 <img align="center" width="1000" src="../../assets/images/introduction/inspect_code5.PNG">
 
 <div id="step2.5" class="step">Step 5: Change CSS property:values pairs and add a few property:value pairs</div>
+
+Here we can see: A CSS selector is defined by what elements you want to select in HTML, a property to change like background-color or margin and a value like green or 25px
+
+```CSS
+selector {  
+    property:value;
+}
+```
+
+Common CSS selectors
+
+```CSS
+/* CSS Element selector */
+div {
+    background:green;
+}
+/* CSS ID selector */
+#events {
+    text-align:center;
+}
+/* CSS Class selector */
+.box {
+    margin: 25px;
+}
+/* CSS pseudo selector */
+a:hover {
+    color:black;
+    text-decoration:underline;
+}
+
+```
+
+CSS Properties to become familiar with using W3Schools:
+
+background | border | border-color | border-radius | color | cursor | display | float | font-size | font-weight | height | letter-spacing | line-height | list-style | margin | opacity | padding | position | text-align | text-decoration | width
 
 <br />
 <hr>
