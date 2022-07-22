@@ -140,17 +140,40 @@ background | border | border-color | border-radius | color | cursor | display | 
 <hr>
 <br />
 
-### <span id="step3">Learning Objective # 3</span> Download and review what a HTML5 boilerplate is
+### <span id="step3">Learning Objective # 3</span> Download and review what a HTML boilerplate is
++ [Visit provided URL to download EagleCorps HTML Boilerplate](#step3.1)
++ [Uncomress/Unzip folder and open in VSC](#step3.2)
++ [Review the boilerplate and discuss how it can be reused](#step3.3)
++ [Discuss how CSS selects HTML and how property:value pairs work](#step3.4)
+
+<div id="step3.1">Step 1: Visit provided URL to download EagleCorps HTML Boilerplate</div> 
+
+<!-- <img align="center" width="1000" src="../../assets/images/introduction/inspect_code1.PNG"> -->
+
+<div id="step3.2">Step 2: Uncomress/Unzip folder and open in VSC</div> 
+
+<div id="step3.3">Step 3: Review the boilerplate and discuss how it can be reused</div> 
+
+<div id="step3.4">Step 4: Make some changes and view using live view in VSC</div> 
 
 <br />
 <hr>
 <br />
 
-### <span id="step4">Learning Objective # 4</span> Create a Github account and upload a boilerplate template
+### <span id="step4">Learning Objective # 4</span> Create a Github account and upload the boilerplate template
++ [Review what Github is, and how to use it](#step4.1)
++ [Create a Github account and add credentials to upload projects](#step4.2)
+
+<div id="step4.1">Step 1: Review what Github is, and how to use it</div>
+<div id="step4.2">Step 2: Create a Github account and add credentials to upload projects</div>
 
 <br />
 <hr>
 <br />
 
 ### <span id="step5">Learning Objective # 5</span> Complete the first coding project and upload it to Github
++ [Visit provided URL to view the first coding project](#step5.1)
++ [Check your environment setup before beginning the replication ](#step5.2)
 
+<div id="step5.1">Step 1: </div>
+<div id="step5.2">Step 2: </div>

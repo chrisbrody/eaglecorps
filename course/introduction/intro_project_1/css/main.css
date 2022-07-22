@@ -1,0 +1,75 @@
+/*
+  1) CSS stands for Cascading Style Sheets
+  2) Cascade refers to how CSS applies one style on top of another
+  3) We create selectors in CSS to choose HTML elements we want to style
+  4) Once we have a selector created we can add property and value pairs to the selector to change how the elements chosen look.
+*/
+
+/*CSS PROPERTIES*/
+/*background-color*/ /*border*/ /*box-sizing*/ /*color*/ /*display*/ /*height*/ /*float*/ /*font-size*/ /*margin*/ /*padding*/ /*text-decoration*/ /*text-transform*/ /*width*/
+
+
+* {
+  box-sizing: border-box;
+}
+
+/* element selector <body> tag */
+body {
+  margin: 0;
+}
+
+/* class selector all elements with class='wrapper' */
+.wrapper {
+  background-color: lightslategray;
+  border: 20px solid black;
+  color: white;
+  margin: 50px;
+  padding: 50px;
+}
+
+/* element selector all <h1> tags */
+h1 {
+  font-size: 85px;
+  margin-top: 0;
+  text-transform: uppercase;
+}
+
+/* element selector all <a> tags */
+a {
+  color: black;
+  text-decoration: underline;
+}
+
+/* class selector all elements with class='image2' */
+.image2 {
+  height: 50px;
+  width: 50px;
+}
+
+#about {
+  height: 500px;
+}
+
+.main, .sidebar {
+  float: left;
+}
+
+/* class selector all elements with class='main' */
+.main {
+  background: white;
+  color: black;
+  height: 350px;
+  width: 70%;
+}
+
+.sidebar {
+  background: grey;
+  height: 350px;
+  padding: 5px;
+  width: 30%;
+}
+
+.main p,
+.sidebar p {
+  padding:10px;
+}
