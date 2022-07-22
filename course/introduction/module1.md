@@ -61,7 +61,8 @@ Once VSC is on your computer navigate to <a href="#" target="_blank">This Google
 + [Discuss how CSS selects HTML and how property:value pairs work](#step2.4)
 + [Change CSS property:values pairs and add a few property:value pairs](#step2.5)
 
-<div id="step2.1" class="step">Step 1: Inspect element to bring up developer tools</div>
+<div id="step2.1" class="step">Step 1: Inspect element to bring up developer tools</div> 
+
 With the URL open, right-click on an element (or a blank area) and select <em>"Inspect"</em> or <em>"Inspect Element"</em> to bring up the developer console, we'll use this to see what elements are made of.  Notice HTML Elements on the left, and based on the element selected (highlighted in blue), you'll notice the correlating CSS on the right.
 <img align="center" width="1000" src="../../assets/images/introduction/inspect_code1.PNG">
 
